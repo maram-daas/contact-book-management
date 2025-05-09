@@ -42,9 +42,7 @@ Each contact is stored in memory as:
 
 - Anything that runs x86 assembly, I recommend using emu8086, you can download it from anywhere.
 
-> you'll need a registration code to use it, so you can simply contact me and i'll share it with you.
-
-> Take care <33
+> you'll need a registration code to use it, so you can simply contact me and i'll share it with you. Take care <33
 
 ---
 
