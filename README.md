@@ -46,6 +46,8 @@ Each contact is stored in memory as:
 
 > Take care <33
 
-### License
+---
+
+## License
 
 This project is licensed under the Apache License 2.0
